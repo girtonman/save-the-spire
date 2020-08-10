@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/save-the-spire/static/css/main.a77e04bb.chunk.css",
+    "main.js": "/save-the-spire/static/js/main.2fd4f725.chunk.js",
+    "main.js.map": "/save-the-spire/static/js/main.2fd4f725.chunk.js.map",
+    "runtime-main.js": "/save-the-spire/static/js/runtime-main.76c38e41.js",
+    "runtime-main.js.map": "/save-the-spire/static/js/runtime-main.76c38e41.js.map",
+    "static/js/2.8954114e.chunk.js": "/save-the-spire/static/js/2.8954114e.chunk.js",
+    "static/js/2.8954114e.chunk.js.map": "/save-the-spire/static/js/2.8954114e.chunk.js.map",
+    "index.html": "/save-the-spire/index.html",
+    "precache-manifest.a40a41313db3acad33a61f2e2fc549dc.js": "/save-the-spire/precache-manifest.a40a41313db3acad33a61f2e2fc549dc.js",
+    "service-worker.js": "/save-the-spire/service-worker.js",
+    "static/css/main.a77e04bb.chunk.css.map": "/save-the-spire/static/css/main.a77e04bb.chunk.css.map",
+    "static/js/2.8954114e.chunk.js.LICENSE.txt": "/save-the-spire/static/js/2.8954114e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76c38e41.js",
+    "static/js/2.8954114e.chunk.js",
+    "static/css/main.a77e04bb.chunk.css",
+    "static/js/main.2fd4f725.chunk.js"
+  ]
+}
